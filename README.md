@@ -7,36 +7,9 @@
 Building practical software with **Python, Machine Learning, Generative AI and backend technologies**.
 
 <p align="center">
-  <a href="https://github.com/Mahirverma">
-    <img
-      src="https://cdn.simpleicons.org/github/181717"
-      width="30"
-      height="30"
-      alt="GitHub"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/mahir-verma/">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="30"
-      height="30"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mahirverma0207@gmail.com">
-    <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="30"
-      height="30"
-      alt="Email"
-    />
-  </a>
+<a href="https://github.com/Mahirverma"><img src="https://img.icons8.com/ios-filled/50/181717/github.png" width="30" height="30" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mahir-verma/"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mahirverma0207@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="30" height="30" alt="Email"></a>
 </p>
 
 </div>
