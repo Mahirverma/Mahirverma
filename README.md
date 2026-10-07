@@ -30,53 +30,157 @@ I'm a Computer Engineering graduate focused on **AI, Machine Learning and Genera
 
 ## 🧠 What I'm Working On
 
-```text
-AI / ML
-├── Machine Learning
-├── Deep Learning
-├── Generative AI
-├── LLM Applications
-├── RAG Systems
-└── NLP
+<p align="center">
+  <strong>Turning AI concepts into practical systems.</strong><br>
+  <sub>My current focus is understanding the complete path from model → system → product.</sub>
+</p>
 
-Engineering
-├── Python
-├── FastAPI
-├── Django
-├── PostgreSQL
-├── REST APIs
-└── Docker
+<br>
 
-Currently Learning
-├── LLM Architecture
-├── RAG & Retrieval
-├── Model Evaluation
-├── AI System Design
-└── Production ML
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 Generative AI</h3>
+
+<p><strong>Building deeper understanding of modern AI systems</strong></p>
+
+<p>
+  <code>LLMs</code>
+  <code>RAG</code>
+  <code>NLP</code>
+  <code>Embeddings</code>
+</p>
+
+<ul>
+  <li>🧩 LLM architecture & inference</li>
+  <li>🔎 Retrieval-Augmented Generation</li>
+  <li>📚 Embeddings & vector search</li>
+  <li>📏 LLM evaluation</li>
+  <li>🧠 Context & prompt engineering</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ AI Engineering</h3>
+
+<p><strong>Building reliable AI systems from models to production</strong></p>
+
+<p>
+  <code>Python</code>
+  <code>FastAPI</code>
+  <code>Django</code>
+  <code>Docker</code>
+</p>
+
+<ul>
+  <li>🐍 Python-first development</li>
+  <li>🔌 AI-powered REST APIs</li>
+  <li>🗄️ Data & database systems</li>
+  <li>🐳 Containerized applications</li>
+  <li>🚀 Production-oriented architecture</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>🚀 Current Learning Path</h3>
+
+<p align="center">
+<pre>
+                    AI SYSTEMS
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+        LLMs           RAG          NLP
+          │             │             │
+          └─────────────┼─────────────┘
+                        ↓
+                  AI EVALUATION
+                        │
+                        ↓
+                PRODUCTION AI
+                        │
+                        ↓
+                  AI PRODUCTS
+</pre>
+</p>
+
+
+<summary><strong>🔭 Where I'm heading</strong></summary>
+
+<br>
+
+<p>
+My long-term interest sits at the intersection of:
+</p>
+
+<p align="center">
+<strong>Artificial Intelligence × Software Engineering</strong>
+</p>
+
+<p>
+I want to build AI systems that don't just demonstrate a model,
+but solve a real problem and can eventually become useful products.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🐍 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages">
+  <img
+    src="https://skillicons.dev/icons?i=python,js,html,css"
+    alt="Python, JavaScript, HTML5, CSS3"
+    title="Python • JavaScript • HTML5 • CSS3"
+  >
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning & GenAI
+
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI and ML">
+  <img
+    src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"
+    alt="TensorFlow, PyTorch, Scikit-learn"
+    title="TensorFlow • PyTorch • Scikit-learn"
+  >
 </p>
 
-### Backend & Data
+### ⚙️ Backend & Data
+
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,sqlite" alt="Backend and databases">
+  <img
+    src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite"
+    alt="Django, FastAPI, PostgreSQL, SQLite"
+    title="Django • FastAPI • PostgreSQL • SQLite"
+  >
 </p>
 
-### Tools & Infrastructure
+### ☁️ Cloud & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools">
+  <img
+    src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux"
+    alt="AWS, Google Cloud, Microsoft Azure, Docker, Linux"
+    title="AWS • Google Cloud • Microsoft Azure • Docker • Linux"
+  >
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Git, GitHub, Visual Studio Code"
+    title="Git • GitHub • Visual Studio Code"
+  >
 </p>
 
 ---
@@ -137,6 +241,6 @@ I'm interested in conversations around **AI/ML, GenAI, Python, software engineer
 
 <div align="center">
 
-**If you're building something interesting, feel free to reach out. 🚀**
+**If you're curious about something interesting, feel free to reach out. 🚀**
 
 </div>
